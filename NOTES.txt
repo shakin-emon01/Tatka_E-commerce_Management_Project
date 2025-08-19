@@ -1,0 +1,2 @@
+** open the project in a Admin Terminal
+** To Run the App: mvn clean javafx:run
