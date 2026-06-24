@@ -146,7 +146,7 @@ Note: Demo credentials have been removed from the UI. Create a new account via t
 1. **View Orders**
    - Go to "My Orders" tab
    - See order history with status
-   - Click "View Details" to open the Order Details dialog showing items, quantities, prices, and totals
+   - Click "View Details" to open the Order Details dialog showing items, quantities, prices, and totals.
 
 2. **Profile Management**
    - Update personal information (District replaces State)
